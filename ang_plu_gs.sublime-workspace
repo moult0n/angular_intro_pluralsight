@@ -264,10 +264,11 @@
 	"buffers":
 	[
 		{
-			"file": "apm-app/package.json",
+			"file": "apm-app/src/app/products/product-list.component.html",
 			"settings":
 			{
-				"buffer_size": 1319,
+				"buffer_size": 2062,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -315,14 +316,34 @@
 	[
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight",
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/e2e",
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src",
-		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app"
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/api",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/api/products",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/products"
 	],
 	"file_history":
 	[
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/products/product-list.component.ts",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/app.module.ts",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/products/product-list.component.html",
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/app.component.ts",
-		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/index.html",
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/app.component.html",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Start/src/app/app.component.ts",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/app.component.ts",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/app.component.html",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/app.component.css",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/.angular-cli.json",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/e2e/app.po.ts",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/home/welcome.component.html",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/products/product-list.component.css",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/products/product-list.component.html",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/products/product-detail.component.html",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/products/product-detail.component.css",
+		"/home/moulton/Documents/angular_intro_project/Angular-GettingStarted/APM-Final/src/app/app.component.css",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/products/products.component.html",
+		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/index.html",
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm-app/src/app/app.component.spec.ts",
 		"/home/moulton/Documents/angular_intro_project/angular_intro_pluralsight/apm/package.json",
 		"/home/moulton/Documents/angular_project/angular-tour-of-heroes/src/app/hero-search/hero-search.component.html",
@@ -363,7 +384,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -405,29 +426,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "apm-app/package.json",
-					"semi_transient": true,
+					"file": "apm-app/src/app/products/product-list.component.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1319,
+						"buffer_size": 2062,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								798,
-								798
+								1891,
+								1891
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -513,7 +534,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 272.0,
+	"side_bar_width": 119.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
