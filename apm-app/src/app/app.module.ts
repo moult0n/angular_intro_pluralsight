@@ -11,6 +11,8 @@ import { ConvertToSpacesPipe } from './shared/convert-to-spaces.pipe';
 
 import { StarComponent } from './shared/star.component';
 
+import { ProductService } from './products/product.service';
+
 
 @NgModule({
   declarations: [
@@ -23,7 +25,7 @@ import { StarComponent } from './shared/star.component';
     BrowserModule,
     FormsModule
   ],
-  providers: [],
+  providers: [ProductService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
